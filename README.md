@@ -6,7 +6,7 @@
 - 🔭 I just finished my first coding project, which is not a discord bot !
 - 🌱 I’m currently coding useful python programms and learning everything around web development
 - 👯 Currently you can not collab with me
-- 🥅 2020 Goals: Getting more into web development
+- 🥅 2022 Goals: Getting more into web development
 - ⚡ Fun fact: I love to maths, physics and chemistry
 
 ### Where you can also find me:
