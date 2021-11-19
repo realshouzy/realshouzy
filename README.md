@@ -7,7 +7,7 @@
 - 🌱 I’m currently coding useful python programms and learning everything around web development
 - 👯 Currently you can not collab with me
 - 🥅 2022 Goals: Getting more into web development
-- ⚡ Fun fact: I love to maths, physics and chemistry
+- ⚡ Fun fact: I love maths, physics and chemistry
 
 ### Where you can also find me:
 [<img align="left" alt="Replit" width="26px" src="https://pbs.twimg.com/profile_images/1438206855663144966/UXppXKJW_400x400.jpg" />][replit]
