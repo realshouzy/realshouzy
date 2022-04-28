@@ -3,10 +3,10 @@
 
 ## I'm a Student and Hobby Coder!!
 
-- 🔭 I just finished my first coding project, which is not a discord bot !
-- 🌱 I’m currently coding useful python programms and learning everything around web development
+- 🔭 I about to finish my first coding project!
+- 🌱 I’m currently coding useful python programms and generally learning everything around python
 - 👯 Currently you can not collab with me
-- 🥅 2022 Goals: Getting more into web development
+- 🥅 2022 Goals: Finally finishing some of my projects
 - ⚡ Fun fact: I love maths, physics and chemistry
 
 ### Where you can also find me:
