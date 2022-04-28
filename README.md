@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love maths, physics and chemistry
 
 ### Where you can also find me:
-[<img align="left" alt="Replit" width="26px" src="https://pbs.twimg.com/profile_images/1438206855663144966/UXppXKJW_400x400.jpg" />][replit]
+[<img align="left" alt="Replit" width="26px" src="https://uptime.com/media/website_profiles/repl.it.png" />][replit]
 [<img align="left" alt="Top.gg" width="26px" src="https://avatars.githubusercontent.com/u/34552786?s=280&v=4" />][top.gg]
 [<img align="left" alt="Twitch" width="26px" src="https://twitch.shouzy.repl.co/twitch.jpeg" />][twitch]
 <br/>
