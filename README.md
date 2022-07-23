@@ -1,13 +1,13 @@
-### Hi there, I'm shouzy - aka realshouzy👋
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm shouzy - aka realshouzy
 
 
 ## I'm a Student and Hobby Coder!!
 
-- 🔭 I just finished my first coding project, which is not a discord bot !
-- 🌱 I’m currently coding useful python programms and learning everything around web development
-- 👯 Currently you can not collab with me
-- 🥅 2022 Goals: Getting more into web development
-- ⚡ Fun fact: I love maths, physics and chemistry
+- 🔭 I just finished my first coding project!
+- 🌱 I’m currently learning and coding in python.
+- 👯 Currently you can not collab with me!
+- 🥅 2022 Goals: Getting into ML.
+- ⚡ Fun fact: I love maths, physics and chemistry!
 
 ### Where you can also find me:
 [<img align="left" alt="Replit" width="26px" src="https://pbs.twimg.com/profile_images/1438206855663144966/UXppXKJW_400x400.jpg" />][replit]
