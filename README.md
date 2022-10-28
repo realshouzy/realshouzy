@@ -4,14 +4,15 @@
 ## I'm a Student and Hobby Coder!!
 
 
-- 🔭 I just finished my first coding project!
-- 🌱 I’m currently learning and coding in python.
+- 🔭 Coding on some projects!
+- 🌱 I’m currently coding in python.
 - 👯 Currently you can not collab with me!
 - 🥅 2022 Goals: Getting into ML.
 - ⚡ Fun fact: I love maths, physics and chemistry!
 
 
 ### Where you can also find me:
+###### (not so much used currently)
 [<img align="left" alt="Replit" width="26px" src="https://uptime.com/media/website_profiles/repl.it.png" />][replit]
 [<img align="left" alt="Top.gg" width="26px" src="https://avatars.githubusercontent.com/u/34552786?s=280&v=4" />][top.gg]
 [<img align="left" alt="Twitch" width="26px" src="https://twitch.shouzy.repl.co/twitch.jpeg" />][twitch]
