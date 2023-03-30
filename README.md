@@ -13,12 +13,9 @@
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="vscode" width="40" height="40"/> </a>
-<a href="https://mypy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://trencseni.com/images/mypy.png" alt="mypy" width="40" height="40"/> </a>
-</p>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://winaero.com/blog/wp-content/uploads/2019/06/WIndows-Terminal-icon.png" alt="vscode" width="40" height="40"/> </a>
 
-### Where you can also find me
-
-###### (inactive)
+### Where you can also find me(inactive)
 
 [<img align="left" alt="Replit" width="26px" src="https://uptime.com/media/website_profiles/repl.it.png" />][replit]
 [<img align="left" alt="Top.gg" width="26px" src="https://avatars.githubusercontent.com/u/34552786?s=280&v=4" />][top.gg]
