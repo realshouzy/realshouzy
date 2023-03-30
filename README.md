@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm shouzy - aka realshouzy
 
-## I'm a Student and Hobby Coder
+## I'm a Student and Python developer
 
 - 🔭 Coding on some projects!
 - 🌱 I’m mostly coding in python.
@@ -15,7 +15,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="vscode" width="40" height="40"/> </a>
 <a href="https://github.com/microsoft/terminal/" target="_blank" rel="noreferrer"> <img src="https://winaero.com/blog/wp-content/uploads/2019/06/WIndows-Terminal-icon.png" alt="vscode" width="40" height="40"/> </a>
 
-### Where you can also find me(inactive)
+### Where you can also find me (inactive)
 
 [<img align="left" alt="Replit" width="26px" src="https://uptime.com/media/website_profiles/repl.it.png" />][replit]
 [<img align="left" alt="Top.gg" width="26px" src="https://avatars.githubusercontent.com/u/34552786?s=280&v=4" />][top.gg]
