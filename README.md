@@ -25,6 +25,10 @@
 
 ### 📊 Statistics
 
-![Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realshouzy&theme=dark)
+<div align="center">
+
+![Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realshouzy&theme=dark)  <br>
 ![Rating](https://github-readme-stats.vercel.app/api?username=realshouzy&theme=dark&show_icons=true&hide_title=true&text_bold=false&include_all_commits=true&hide_rank=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realshouzy&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realshouzy&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)  <br>
+
+</div>
