@@ -8,7 +8,7 @@
 - 🥅 2023 Goals: Getting into [``tokenize-rt``](https://github.com/asottile/tokenize-rt) and low level programming.
 - ⚡ Fun fact: I love maths, physics and chemistry!
 
-## 👨‍💻 Development
+## 👨‍💻 Tools and Languages
 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/realshouzy)
