@@ -2,10 +2,10 @@
 
 ## 💬 I'm a Student and Python developer
 
-- 🔭 I’m currently working on [``auto-file-sorter``](https://github.com/realshouzy/auto-file-sorter)
+- 🔭 I’m currently working on [``auto-file-sorter``](https://github.com/realshouzy/auto-file-sorter) and somewhat [``YTDownloader``](https://github.com/realshouzy/YTDownloader)
 - 🌱 I’m mostly coding in **Python**.
 - 👯 Currently you can collab with me!
-- 🥅 2023 Goals: Getting into [``tokenize-rt``](https://github.com/asottile/tokenize-rt) and low level programming.
+- 🥅 2023 Goals: Getting into [``AST``](https://docs.python.org/3/library/ast.html) and [``tokenize-rt``](https://github.com/asottile/tokenize-rt) for (Python) linting and formatting.
 - ⚡ Fun fact: I love maths, physics and chemistry!
 
 ## 👨‍💻 Tools and Languages
