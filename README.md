@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [``auto-file-sorter``](https://github.com/realshouzy/auto-file-sorter) and somewhat [``YTDownloader``](https://github.com/realshouzy/YTDownloader)
 - 🌱 I’m mostly coding in **Python**.
 - 👯 Currently you can collab with me!
-- 🥅 2023 Goals: Getting into [``AST``](https://docs.python.org/3/library/ast.html) and [``tokenize-rt``](https://github.com/asottile/tokenize-rt) for (Python) linting and formatting.
+- 🥅 2024 goals: Finishing school and writing my own Python linting tool.
 - ⚡ Fun fact: I love maths, physics and chemistry!
 
 ## 👨‍💻 Tools and Languages
