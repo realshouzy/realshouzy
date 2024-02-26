@@ -2,7 +2,7 @@
 
 ## 💬 I'm a Student and Python developer
 
-- 🔭 I’m currently working on [``auto-file-sorter``](https://github.com/realshouzy/auto-file-sorter) and somewhat [``YTDownloader``](https://github.com/realshouzy/YTDownloader)
+- 🔭 I’m currently working on my own fork of [``pip-review``](https://github.com/realshouzy/pip-review)
 - 🌱 I’m mostly coding in **Python**.
 - 👯 Currently you can collab with me!
 - 🥅 2024 goals: Finishing school and writing my own Python linting tool.
